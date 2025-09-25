@@ -21,20 +21,20 @@ Ce projet implémente une série d'algorithmes fondamentaux en langage C, couvra
 
 ## Structure du projet
 ```
-projet-structures-donnees/
-│
-├── src/
-│   ├── matrice_somme.c                 # Somme de matrices
-│   ├── matrice_produit.c               # Produit de matrices
-│   ├── recherche.c                     # Recherche séquentielle
-│   ├── axb.c                           # Multiplication récursive
-│   ├── test_trie.c                     # Détection de tri
-│   ├── mediane.c                       # Calcul de médiane
-│   ├── inverse_tab.c                   # Inversion de tableau
-│   ├── Produit Vectoriel.c             # Produit vectoriel (3D)
-│   └── Produit vecteur x matrice.c     # Produit vecteur x matrice
-│
-└── README.md                           # Ce fichier
+        INF-231-DEVOIR-1-INF-231/
+        │
+        ├── src/
+        │   ├── matrice_somme.c                 # Somme de matrices
+        │   ├── matrice_produit.c               # Produit de matrices
+        │   ├── recherche.c                     # Recherche séquentielle
+        │   ├── axb.c                           # Multiplication récursive
+        │   ├── test_trie.c                     # Détection de tri
+        │   ├── mediane.c                       # Calcul de médiane
+        │   ├── inverse_tab.c                   # Inversion de tableau
+        │   ├── Produit Vectoriel.c             # Produit vectoriel (3D)
+        │   └── Produit vecteur x matrice.c     # Produit vecteur x matrice
+        │
+        └── README.md                           # Ce fichier
 
 ```
 - **Somme de matrices (matrice_somme.c)**
